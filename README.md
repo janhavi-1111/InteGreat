@@ -1,4 +1,4 @@
-Overview
+##Overview
 
 This repository contains the comprehensive project plan and supporting documents for "InteGreat," a centralized social media management platform designed to streamline marketing and customer engagement for businesses. The project covers all aspects of development, risk management, scheduling, budgeting, communication, and project closeout to ensure efficient and effective delivery.
 
