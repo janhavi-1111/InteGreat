@@ -49,5 +49,7 @@ Control Systems: Details processes for quality and progress monitoring.
 Closeout Accounts and Lessons Learned: Summarizes project insights and improvements for future reference.
 
 **Technology & Tools**
+
 **Planning & Documentation**: Microsoft Project Libre, Gantt Charts, PERT Analysis.
+
 **Management Frameworks:** RAM, WBS, Risk Analysis.
